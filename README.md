@@ -67,5 +67,5 @@ I have Worked on more than 15 Application (Mobile - web - Dashboard) 2 Examples 
 
 ## Example of Bug report and work in Trello
 
-  * Bug #1. Check [the screenshot of the bug report in Trello](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
+  * Bug #1. Check [the screenshot of the bug report in Trello](https://drive.google.com/file/d/13hJyUTaa16RDCT4WlX78qrVIhrllikH9/view?usp=drivesdk).
 
