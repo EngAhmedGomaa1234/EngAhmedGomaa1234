@@ -16,7 +16,7 @@ Today, I apply those strengths in the world of software quality assurance. I tes
 I believe quality isn’t just about bug reports — it’s about building trust between users and technology. That’s why I do what I do.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1_uXIOXXx6N73wb_kxSE6EYc6ifpfHAX0/view?usp=drive_link).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1uO9iNu3GmQsJhfDVUYAWVJeqSUxzBrej/view?usp=sharing).
 
 ## Skills
 
